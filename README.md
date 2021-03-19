@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on emotion detection project
+- 🔭 I’m currently working on improving my competitive programming skills
 - 🌱 I’m currently learning how can I make this look more attractive 🤣
 - 🥅 2021 Goals: improving skills and open source contribution
 -   :man: Pronouns: he/him
