@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on improving my competitive programming skills
-- 🌱 I’m currently learning how can I make this look more attractive 🤣
+- 🔭 I’m currently improving my competitive programming skills
+- 🌱 I’m currently learning concepts of OOPs
 - 🥅 2021 Goals: improving skills and open source contribution
 -   :man: Pronouns: he/him
 - ⚡ Fun fact: The Firefox logo isn’t a fox (it is actually a red panda!).
